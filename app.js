@@ -196,4 +196,7 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 
 //prevent creation of empty tasks.
 
+
+//prevent creation of empty tasks.
+
 //Change edit to save when you are in edit mode.
